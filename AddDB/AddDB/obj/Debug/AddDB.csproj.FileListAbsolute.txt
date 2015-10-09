@@ -1,0 +1,9 @@
+c:\users\challset\documents\visual studio 2013\Projects\AddDB\AddDB\bin\Debug\AddDB.exe.config
+c:\users\challset\documents\visual studio 2013\Projects\AddDB\AddDB\obj\Debug\AddDB.Form1.resources
+c:\users\challset\documents\visual studio 2013\Projects\AddDB\AddDB\obj\Debug\AddDB.Properties.Resources.resources
+c:\users\challset\documents\visual studio 2013\Projects\AddDB\AddDB\obj\Debug\AddDB.csproj.GenerateResource.Cache
+c:\users\challset\documents\visual studio 2013\Projects\AddDB\AddDB\bin\Debug\AddDB.exe
+c:\users\challset\documents\visual studio 2013\Projects\AddDB\AddDB\bin\Debug\AddDB.pdb
+c:\users\challset\documents\visual studio 2013\Projects\AddDB\AddDB\obj\Debug\AddDB.exe
+c:\users\challset\documents\visual studio 2013\Projects\AddDB\AddDB\obj\Debug\AddDB.pdb
+c:\users\challset\documents\visual studio 2013\Projects\AddDB\AddDB\obj\Debug\AddDB.csprojResolveAssemblyReference.cache
